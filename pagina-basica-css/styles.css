@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "barbatrick";
+  src: url("fonts/Barbatrick.otf");
+  font-family: "neuropol x";
+  src: url("fonts/neuropol x rg.ttf");
+  font-family: "v5 prophit fading";
+  src: url("fonts/V5PRF__.TTF");
+  font-family: "vcr osd mono";
+  src: url("fonts/VCR_OSD_MONO_1.001.ttf");
+}
+
+h1 {
+  color: cyan;
+  font-family: barbatrick;
+  font-size: 80px;
+}
+
+h2 {
+  color: hotpink;
+  font-family: neuropol x;
+  font-size: 60px;
+  white-space: nowrap;
+  animation: title 10s infinite linear;
+  padding-right: 100%;
+}
+
+@keyframes title {
+  to {
+    transform: translateX(+100%);
+  }
+}
+
+p {
+  color: greenyellow;
+  font-family: consolas;
+  font-size: 35px;
+  justify-content: space-evenly;
+}
+
+h3 {
+  color: yellow;
+  font-size: 60px;
+  font-family: v5 prophit fading;
+}
+
+ol {
+  color: white;
+  font-family: vcr osd mono;
+  font-size: 35px;
+}

@@ -1,0 +1,72 @@
+body {
+  background-color: whitesmoke;
+}
+
+.h1 {
+  text-align: center;
+  font-family: arial;
+}
+
+.h2 {
+  background-color: gray;
+  color: red;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.h3 {
+  background-color: darkgray;
+  color: purple;
+  font-family: arial;
+  font-weight: bold;
+}
+
+.div1 {
+  background-color: lightgray;
+  font-family: arial;
+  font-size: 15px;
+}
+
+.p1 {
+  background-color: lightgray;
+  font-family: arial;
+  font-size: 15.5px;
+  margin: 0px;
+}
+
+.dt1 {
+  color: black;
+  font-family: arial;
+  font-size: 15px;
+}
+
+.parent1 {
+  color: blue;
+  font-family: arial;
+  font-weight: bold;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
+.parent2 {
+  color: green;
+  font-family: arial;
+  font-size: 15px;
+}
+
+.footer1 {
+  font-family: arial;
+  font-size: 14px;
+  text-align: center;
+}
+
+.footer2 {
+  color: blue;
+  font-family: arial;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+  margin: 0px;
+}

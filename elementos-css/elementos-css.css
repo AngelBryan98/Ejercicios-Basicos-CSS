@@ -1,0 +1,29 @@
+.title {
+    text-align: center;
+    color: royalblue;
+    background-color: black;
+    border: 2px dotted red;
+}
+
+.subtitle {
+    text-align: center;
+    color: white;
+    background-color: red;
+    padding: 20px;
+}
+
+#caja, #caja2 {
+    background-color: black;
+}
+
+#caja p, #caja2 p {
+    color: white;
+}
+
+#caja {
+    width: 400px;
+    height: 200px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
